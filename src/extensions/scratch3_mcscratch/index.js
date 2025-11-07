@@ -282,7 +282,7 @@ class Scratch3MCScratchExtension {
                     blockType: BlockType.COMMAND,
                     text: formatMessage({
                         id: 'mcscratch.dropAll',
-                        default: 'Drop all item in inventory to [DIRECTION]',
+                        default: 'Drop all items in inventory to [DIRECTION]',
                         description: 'Drop all items'
                     }),
                     arguments: {

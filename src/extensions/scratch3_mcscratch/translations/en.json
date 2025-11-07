@@ -9,7 +9,7 @@
     "mcscratch.attack": "Attack [DIRECTION]",
     "mcscratch.collect": "Collect [ITEM]",
     "mcscratch.drop": "Drop [QUANTITY] item(s) in inventory slot [SLOT] to [DIRECTION]",
-    "mcscratch.dropAll": "Drop all item in inventory to [DIRECTION]",
+    "mcscratch.dropAll": "Drop all items in inventory to [DIRECTION]",
     "mcscratch.detect": "Detect [DIRECTION]",
     "mcscratch.inspect": "Inspect at [DIRECTION]",
     "mcscratch.inspectdata": "Inspect data at [DIRECTION]",
