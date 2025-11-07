@@ -1,0 +1,21 @@
+{
+  "name": "scratch3-mcscratch-extension",
+  "version": "1.0.0",
+  "description": "Minecraft Code Connection extension for Scratch 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scratch",
+    "scratch3",
+    "extension",
+    "minecraft",
+    "code-connection"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "scratch-vm": "^0.2.0"
+  }
+}
